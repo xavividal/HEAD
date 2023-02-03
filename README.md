@@ -36,9 +36,9 @@
 - [Proyectos relacionados](#proyectos-relacionados)
 - [Otros formatos](#otros-formatos)
 - [Traducciones](#-traducciones)
-- [Colaboradores](#colaboradores)
-- [Autor de la traducción](#autor-de-la-traduccion)
-- [Autor](#autor)
+- [Colaboradores](#-colaboradores)
+- [Autor de la traducción](#-autor-de-la-traduccion)
+- [Autor](#-autor)
 - [Soporte al proyecto original](#💛-soporte-al-proyecto-original)
 - [Licencia](#-licencia)
 
