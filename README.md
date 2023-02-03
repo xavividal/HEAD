@@ -64,7 +64,7 @@ A continuación se muestran los elementos esenciales para cualquier documento we
 
 `initial-scale=1` - el zoom inicial, 1 significa que no hay zoom
 
-**[⬆ volver arriba](#tablla-de-contenidos)**
+**[⬆ volver arriba](#tabla-de-contenidos)**
 
 ## Elementos
 
