@@ -37,7 +37,7 @@
 - [Otros formatos](#otros-formatos)
 - [Traducciones](#-traducciones)
 - [Colaboradores](#-colaboradores)
-- [Autor de la traducción](#-autor-de-la-traduccion)
+- [Autor de la traducción](#-autor-de-la-traducción)
 - [Autor](#-autor)
 - [Soporte al proyecto original](#💛-soporte-al-proyecto-original)
 - [Licencia](#-licencia)
