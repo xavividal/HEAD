@@ -8,7 +8,7 @@
 
 ## Tabla de Contenidos
 
-- [Mínimos recomendados](#minimos-recomendados)
+- [Mínimos recomendados](#mínimos-recomendados)
 - [Elementos](#elementos)
 - [Meta](#meta)
 - [Enlaces](#enlaces)
@@ -53,7 +53,7 @@ A continuación se muestran los elementos esenciales para cualquier documento we
   Las 2 metaetiquetas anteriores *deben* aparecer primero en el <head> para asegurar consistentemente la representación adecuada del documento.
   Cualquier otro elemento principal debe ir *después* de estas etiquetas.
  -->
-<title>Titulo de la página</title>
+<title>Título de la página</title>
 ```
 
 `meta charset` - define la codificación del sitio web, `utf-8` es el estándar
@@ -243,7 +243,7 @@ Estos elementos proporcionan información sobre cómo las tecnologías web deben
 <link rel="micropub" href="https://ejemplo.com/micropub">
 
 <!-- Open Search -->
-<link rel="search" href="/open-search.xml" type="application/opensearchdescription+xml" title="Titulo de búsqueda">
+<link rel="search" href="/open-search.xml" type="application/opensearchdescription+xml" title="Título de búsqueda">
 
 <!-- Feeds -->
 <link rel="alternate" href="https://feeds.feedburner.com/example" type="application/rss+xml" title="RSS">
@@ -294,7 +294,7 @@ Estos elementos proporcionan información sobre cómo las tecnologías web deben
 <meta property="fb:app_id" content="123456789">
 <meta property="og:url" content="https://ejemplo.com/page.html">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Titulo del contenido">
+<meta property="og:title" content="Título del contenido">
 <meta property="og:image" content="https://ejemplo.com/imagen.jpg">
 <meta property="og:image:alt" content="Una descripción de lo que está en la imagen (no un pie de foto)">
 <meta property="og:description" content="Descripción Aquí">
