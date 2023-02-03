@@ -102,7 +102,7 @@ Estos elementos proporcionan información sobre cómo las tecnologías web deben
 </noscript>
 ```
 
-**[⬆ volver arriba](#table-de-contenidos)**
+**[⬆ volver arriba](#tabla-de-contenidos)**
 
 ## Meta
 
