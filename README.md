@@ -11,8 +11,8 @@
 - [Mínimos recomendados](#minimos-recomendados)
 - [Elementos](#elementos)
 - [Meta](#meta)
-- [Link](#link)
-- [Icons](#icons)
+- [Enlaces](#enlaces)
+- [Iconos](#iconos)
 - [Social](#social)
   - [Facebook Open Graph](#facebook-open-graph)
   - [Twitter Card](#twitter-card)
@@ -186,7 +186,7 @@ Estos elementos proporcionan información sobre cómo las tecnologías web deben
 
 **[⬆ volver arriba](#tabla-de-contenido)**
 
-## Link
+## Enlaces
 
 ```html
 <!-- Apunta a una hoja de estilo externa -->
